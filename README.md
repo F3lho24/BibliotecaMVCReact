@@ -360,7 +360,7 @@ npm install react-router-dom
 
 ### **Error de CORS**
 - Verifica configuración CORS en Spring Boot
-- Asegúrate de que el backend esté en puerto 8080
+- Asegúrate de que el backend esté en puerto 8081
 - Revisa que la URL en `api.js` sea correcta
 
 ### **Error: "Module not found"**
