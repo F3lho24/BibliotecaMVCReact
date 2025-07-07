@@ -3,7 +3,7 @@ import api from './api';
 const DVDS_ENDPOINT = '/dvds';
 
 export const dvdService = {
-  // Obtener todos los DVDs
+  // Obtener todos los DVD
   getAll: () => api.get(DVDS_ENDPOINT),
 
   // Obtener DVD por ID

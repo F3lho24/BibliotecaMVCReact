@@ -31,7 +31,7 @@ function App() {
           <Route path="/revistas/nuevo" element={<RevistaForm />} />
           <Route path="/revistas/editar/:id" element={<RevistaForm />} />
           
-          {/* Rutas de DVDs */}
+          {/* Rutas de DVD */}
           <Route path="/dvds" element={<DVDsPage />} />
           <Route path="/dvds/nuevo" element={<DVDForm />} />
           <Route path="/dvds/editar/:id" element={<DVDForm />} />
